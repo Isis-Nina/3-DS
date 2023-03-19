@@ -1,4 +1,4 @@
-# 3-DS
+# QTS
 Atividades feitas no terceiro ano de Desenvolvimento de sistemas
 
 Oie! tudo bem?
